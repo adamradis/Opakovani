@@ -1,0 +1,27 @@
+.Card-food{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+    height: 500px;
+    margin: auto;
+
+}
+
+.Card-food-img{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Card-name{
+    width: 150px;
+    height: 500px;
+    text-align: center;
+}
+
+.Card-food-price{
+    
+}
